@@ -73,9 +73,9 @@ Here are the main dashboards created:
 ---
 
 🖼️ Screenshots:
-![Page 1](./screenshots/dashboard1.png)
-![Page 2](./screenshots/dashboard2.png)
-![Page 3](./screenshots/dashboard3.png)
+![Page 1](./Page_1.png)
+![Page 2](./Page_2.png)
+![Page 3](./Page_3.png)
 
 ---
 
